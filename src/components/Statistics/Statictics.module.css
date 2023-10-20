@@ -1,0 +1,16 @@
+.title {
+    color: #1e4076;
+    margin-bottom: 20px;
+    font-style: italic;
+    text-align: center;
+}
+
+.options {
+    padding-left: 115px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+    font-size: 18px;
+}

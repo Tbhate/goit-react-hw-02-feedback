@@ -1,0 +1,11 @@
+.message {
+
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+
+    padding: 10px;
+
+    color: #1e4076;
+    margin-bottom: 20px;
+}

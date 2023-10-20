@@ -1,0 +1,15 @@
+.mainContainer {
+    width: 500px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    padding-bottom: 30px;
+    outline: 2px solid #4285f4;
+}
+
+.title {
+    color: #4285f4;
+    margin-bottom: 25px;
+    text-align: center;
+}
